@@ -48,10 +48,7 @@ import static message.User_Server_Phase1.encrypt_public_group;
 import static message.User_Server_Phase1.isFirst_Phase_over;
 import static message.User_Server_Phase1.setFirst_Phase_over;
 
-/**
- *
- * @author Muhamed
- */
+
 public class myFrame extends JFrame{
     
     /** Creates a new instance of myFrame */
