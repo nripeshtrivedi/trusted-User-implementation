@@ -38,10 +38,7 @@ import static message.Server_User_Phase2.send_to_group;
 import static message.Server_User_Phase4.Read_Enrypted_Massage;
 import static message.Server_User_Phase4.setPhase_4_over;
 
-/**
- *
- * @author Muhamed
- */
+
 public class myFrame extends JFrame{
     
     /** Creates a new instance of myFrame */
